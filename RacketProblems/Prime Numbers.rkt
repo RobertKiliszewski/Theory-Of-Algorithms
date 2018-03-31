@@ -13,4 +13,4 @@
       #t
       (non-divisible-by p (- p 1))))
 
-(prime? 6)
+(prime? 1)
